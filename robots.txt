@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sonhosobrerodas.com.br/sitemap.xml
